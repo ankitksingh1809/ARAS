@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SendMail</string>
+    <string name="developer">
+        <br>Developed by-
+        </br>
+        <br> DevAnkit
+        </br>
+    </string>
+</resources>

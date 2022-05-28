@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_add_user_admin2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_admin_home2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_admin_login2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_day_time_flag.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_delete_all_user_admin2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_delete_user_admin2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_open_door_user2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_registration_update_user2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_user_home2.xml" value="0.2" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_view_delete_all_user_admin2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/activity_view_delete_user_admin2.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/delete_user_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/layout_add_user_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/layout_admin_home.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/layout_admin_login.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/layout_delete_all_user_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/layout_registration_update_user.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/layout_user_home.xml" value="0.1902497027348395" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/layout_user_homr.xml" value="0.25" />
+        <entry key="..\:/Users/ankit/Documents/SendMail/app/src/main/res/layout/user_card.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (15)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
