@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DayTimeFlag">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Days on which access is required:"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbAllDay"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="ALL DAYS" />
+
+        <CheckBox
+            android:id="@+id/cbMonDay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="MONDAY" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbTuesday"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="TUESDAY" />
+
+        <CheckBox
+            android:id="@+id/cbWednesday"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="WEDNESDAY" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbThursday"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="THURSDAY" />
+
+        <CheckBox
+            android:id="@+id/cbFriday"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="FRIDAY" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbSaturday"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="SATURDAY" />
+
+        <CheckBox
+            android:id="@+id/cbSunday"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="SUNDAY" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Time duration for access is required:"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbNineAM"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="9-10 AM" />
+
+        <CheckBox
+            android:id="@+id/cbTenAM"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="10-11 AM" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbElevenAM"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="11-12 AM" />
+
+        <CheckBox
+            android:id="@+id/cbTwelvePM"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="12-1 PM" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbOnePM"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="1-2 PM" />
+
+        <CheckBox
+            android:id="@+id/cbTwoPM"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="2-3 PM" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbThreePM"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:text="3-4 PM" />
+
+        <CheckBox
+            android:id="@+id/cbFourPM"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hapticFeedbackEnabled="false"
+            android:text="4-5 PM" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnRegisterUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="Register / Update" />
+
+</LinearLayout>
