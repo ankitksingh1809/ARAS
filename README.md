@@ -4,7 +4,7 @@ Automatic Restricted Access System
 
 The application supports automatic access to a building for authorized users at selected day and time.
 
-If user has access to the building at a time, then it allow them to enter the building.
+If user has access to the building at a time, then it allows them to enter the building.
 
 
 
